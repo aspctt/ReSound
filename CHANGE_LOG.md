@@ -1,5 +1,10 @@
-# JetSoundsUpdated :: Change Log
+# ReSound :: Change Log
 - - -
+
+* 2026-02-24: 2.0.0.0
+	+ Complete seperation from JetSoundsUpdated
+	+ Mod rebranded to ReSound
+	+ Removal of all content regarding the prior license
 
 * 2024-12-14: 1.5.0.0
 	+ Added configs for following mods:
