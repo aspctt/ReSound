@@ -18,7 +18,7 @@ To install, place the GameData folder inside your Kerbal Space Program folder. I
 
 This work is licensed as follows:
 
-* [GPL 3.0(https://www.gnu.org/licenses/gpl-3.0.html). See [here](./LICENSE)
+* [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.html). See [here](./LICENSE)
 	+ You are free to:
 		- Use : unpack and use the material in any computer or device
 		- Redistribute : redistribute the original package in any medium
