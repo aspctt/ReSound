@@ -1,0 +1,17 @@
+{
+	"NAME"		: "ReSound",
+	"URL"		: "https://github.com/aspctt/ReSound/main/ReSound.version",
+	"DOWNLOAD"	: "https://github.com/aspctt/ReSound/releases",
+	"CHANGE_LOG"	: "https://raw.githubusercontent.com/aspctt/ReSound/main/CHANGE_LOG.md",
+	"VERSION":{
+		"MAJOR":2,
+		"MINOR":0,
+		"PATCH":0,
+		"BUILD":0
+		},
+	"KSP_VERSION_MIN":{
+		"MAJOR":1,
+		"MINOR":8,
+		"PATCH":0
+		}
+}
