@@ -6,6 +6,9 @@
 	+ Mod rebranded to ReSound
 	+ Removal of all content regarding the prior license
 	+ Migrated license to GPLv3
+	+ Added waterfall effects for following engines:
+		- nfa-multimodal-25-1 (B.R.O.A.D.S.W.O.R.D)
+		- nfa-turbojet-25-1 (Valkyrie)
 
 * 2024-12-14: 1.5.0.0
 	+ Added configs for following mods:
