@@ -1,0 +1,59 @@
+###############################################################################
+# ReSound - .gitignore for a Kerbal Space Program config mod
+###############################################################################
+
+## Release archives
+# Built by zipping GameData for a release. Regenerated on demand, so there is
+# no reason to carry them in history where they would bloat every clone.
+*.zip
+*.7z
+*.rar
+Release/
+Releases/
+build/
+
+## ModuleManager output
+# Written next to GameData when the repository is symlinked or copied into a
+# KSP install for testing. Machine local, rebuilt on every load, and a cache
+# that follows a clone to another machine is worse than no cache at all.
+ModuleManager.ConfigCache
+ModuleManager.ConfigSHA
+ModuleManager.Physics
+ModuleManager.TechTree
+ModuleManagerUnusedNodes.cfg
+PartDatabase.cfg
+
+## Game logs and crash artefacts, wherever they land
+KSP.log
+Player.log
+output_log.txt
+*.log
+crash_*/
+error.log
+
+###############################################################################
+# Local-only working material. NOT for publication.
+#
+# Masters and editor projects for the clips in GameData/ReSound/Sounds. The
+# game only ever loads the encoded .ogg files, and the sources behind them are
+# large and, in some cases, licensed for reference rather than redistribution.
+#
+# Remove an entry only if you deliberately intend to publish it.
+###############################################################################
+*.wav
+*.flac
+*.aiff
+*.aup
+*.aup3
+Sources/
+
+## IDE / editor cruft
+.idea/
+.vscode/
+.vs/
+*.sublime-workspace
+
+## OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
